@@ -1,0 +1,42 @@
+/* Navbar */
+.navbar ul{
+    flex-wrap: wrap;
+}
+/* Headings */
+.headings{
+    font-size: 2.5rem;
+}
+/* About Section */
+#pic{
+    flex-direction: column;
+    align-items: center;
+}
+#pic img{
+    width: 350px;
+    height:230px;
+}
+#intro h2{
+    text-align: center;
+    padding:10px;
+}
+#intro p{
+    justify-content: space-around;
+}
+#box ul li h2{
+    font-size: 15px;
+}
+/* certifications */
+.gallery{
+    display:flex;
+    flex-wrap: wrap;
+    margin-left:0;
+
+}
+.gallary .img{
+    width:350px;
+    height:300px;
+}
+
+
+
+

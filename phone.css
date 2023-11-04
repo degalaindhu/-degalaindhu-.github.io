@@ -1,0 +1,61 @@
+/* Home */
+#home{
+    height: 820px;
+}
+.headings{
+    font-size: 1.2rem;
+}
+/* About */
+#pic img{
+    width: 230px;
+    height: 175px;
+}
+#intro h2{
+    font-size: 1.5rem;
+}
+#skills.row{
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+}
+.box {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 350px;
+    border: 1px solid black;
+    margin: 10px;
+    align-items: center;
+    text-align: justify;
+    padding: 10px;
+    border-radius: 15px;
+    
+}
+.box ul li h2{
+    font-size: 15px;
+}
+.box p{
+    font-size: 12px;
+}
+.headings h6{
+    font-size: 1rem;
+}
+.ul li h2{
+    font-size: 10px;
+}
+.education-entry h2 a {
+    font-size: 20px;
+}
+
+/* certifications */
+.gallery{
+    display:flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    margin-left:0;
+
+}
+.gallary .img{
+    width:30px;
+    height:20px;
+}
